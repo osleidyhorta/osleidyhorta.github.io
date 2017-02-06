@@ -128,6 +128,14 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f28281"
+            },
+            ".mbr-section-lead": {
+              "color": "#f28281"
+            }
+          },
           "_anchor": "header1-1v",
           "_params": {
             "parallax": true,
@@ -150,15 +158,7 @@
           },
           "title": "Osleidy Horta",
           "text": "Welcome to my website :)",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#f28281"
-            },
-            ".mbr-section-lead": {
-              "color": "#f28281"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
         },
         {
           "_inherit": "msg-box5",
