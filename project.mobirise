@@ -160,7 +160,7 @@
           },
           "title": "~Osleidy Horta~",
           "text": "Welcome to my website :)",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Enter</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Enter</a>"
         },
         {
           "_inherit": "contacts3",
