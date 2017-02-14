@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Osli's Portfolio :)",
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -236,7 +236,7 @@
               "family": "et-line"
             }
           },
-          "text3": "12860 SW 17 St.",
+          "text3": "12860 SW 17 St.<br>Miami Fl, 33175<br>",
           "media3": {
             "iconFont": {
               "active": true,
@@ -873,7 +873,7 @@
               "src": "@PROJECT_PATH@/assets/images/signature-256x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1226,7 +1226,7 @@
               "family": "et-line"
             }
           },
-          "text3": "12860 SW 17 St.",
+          "text3": "12860 SW 17 St.<br>Miami Fl, 33175<br>",
           "media3": {
             "iconFont": {
               "active": true,
