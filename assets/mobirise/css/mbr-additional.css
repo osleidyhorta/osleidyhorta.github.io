@@ -573,6 +573,25 @@ h6,
 #msg-box8-21 p {
   color: #fff;
 }
+#contacts5-2m p,
+#contacts5-2m .list-group-text,
+#contacts5-2m .form-control-label {
+  color: #000;
+}
+#contacts5-2m strong,
+#contacts5-2m h4 {
+  color: #7e9b9f;
+}
+#contacts5-2m form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-2m .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-2m .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
 
 #ext_menu-1y .hide-buttons .nav-btn {
   display: none !important;
@@ -640,6 +659,25 @@ h6,
 #msg-box8-28 .mbr-section-title,
 #msg-box8-28 p {
   color: #fff;
+}
+#contacts5-2m p,
+#contacts5-2m .list-group-text,
+#contacts5-2m .form-control-label {
+  color: #000;
+}
+#contacts5-2m strong,
+#contacts5-2m h4 {
+  color: #7e9b9f;
+}
+#contacts5-2m form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-2m .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-2m .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
 }
 
 #ext_menu-2b .hide-buttons .nav-btn {
