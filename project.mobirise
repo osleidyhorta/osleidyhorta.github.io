@@ -109,7 +109,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-256x128.png",
+              "src": "@PROJECT_PATH@/assets/images/signature.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -393,7 +393,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-256x128.png",
+              "src": "@PROJECT_PATH@/assets/images/signature.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -458,9 +458,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/if-walls-could-talk-osleidy-horta-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/if-walls-could-talk-osleidy-horta-2000x2000.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/osleidy-horta-mpop-poster-2-1-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/osleidy-horta-mpop-poster-2-1-2000x2750.jpg",
+                "caption": "Orchestra Concert Poster",
                 "active": false
               },
               {
@@ -468,9 +468,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/osleidy-horta-mpop-poster-2-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/osleidy-horta-mpop-poster-2-1-2000x2000.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/if-walls-could-talk-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/if-walls-could-talk-2000x2750.jpg",
+                "caption": "If Walls Could talk Production Poster",
                 "active": false
               },
               {
@@ -478,14 +478,14 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/osleidy-horta-perspective-piece-2000x1692-800x676.jpg",
-                "image": "@PROJECT_PATH@/assets/images/osleidy-horta-perspective-piece-2000x1692.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/osleidy-horta-perspective-piece-1-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/osleidy-horta-perspective-piece-1-2000x2750.jpg",
+                "caption": "Perpective Piece: El Malecon de La Habana",
                 "active": true
               }
             ],
-            "spacing": "0",
-            "showText": false,
+            "spacing": "1",
+            "showText": true,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
@@ -696,7 +696,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-256x128.png",
+              "src": "@PROJECT_PATH@/assets/images/signature.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -761,9 +761,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/osleidy-horta-final-competition-piece-2000x2012-800x804.jpg",
-                "image": "@PROJECT_PATH@/assets/images/osleidy-horta-final-competition-piece-2000x2012.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/osleidy-horta-final-competition-piece-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/osleidy-horta-final-competition-piece-2000x2750.jpg",
+                "caption": "Illusion Piece Competition",
                 "active": false
               },
               {
@@ -771,9 +771,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vintage-tv-osleidy-horta-2000x1643-800x657.jpg",
-                "image": "@PROJECT_PATH@/assets/images/vintage-tv-osleidy-horta-2000x1643.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/vintage-tv-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vintage-tv-2000x2750.jpg",
+                "caption": "Vintage TV",
                 "active": false
               },
               {
@@ -781,54 +781,44 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/osleidy-horta-vw-logo-completed-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/osleidy-horta-vw-logo-completed-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-osleidy-horta-breanna-henry-blue-print-drawing-complete-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-osleidy-horta-breanna-henry-blue-print-drawing-complete-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/postcard-osleidy-horta-2000x2364-800x945.jpg",
-                "image": "@PROJECT_PATH@/assets/images/postcard-osleidy-horta-2000x2364.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/osleidy-horta-logo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/osleidy-horta-logo-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/osleidy-horta-mdcps-logo-final-2000x2363-800x945.jpg",
-                "image": "@PROJECT_PATH@/assets/images/osleidy-horta-mdcps-logo-final-2000x2363.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/osleidy-horta-vw-logo-completed-1-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/osleidy-horta-vw-logo-completed-1-2000x2750.jpg",
+                "caption": "Volkswagen Logo for practice&nbsp;",
                 "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-osleidy-horta-breanna-henry-blue-print-drawing-complete-1-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-osleidy-horta-breanna-henry-blue-print-drawing-complete-1-2000x2750.jpg",
+                "caption": "Kayak motor Blue Prints",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-2000x2750.jpg",
+                "caption": "Logo",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/osleidy-horta-mdcps-logo-final-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/osleidy-horta-mdcps-logo-final-2000x2750.jpg",
+                "caption": "MDCPS Logo Competition",
+                "active": false
               }
             ],
-            "spacing": 0,
-            "showText": false,
+            "spacing": "1",
+            "showText": true,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
@@ -1042,7 +1032,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-256x128.png",
+              "src": "@PROJECT_PATH@/assets/images/signature.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
