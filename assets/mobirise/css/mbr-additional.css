@@ -743,15 +743,6 @@ h6,
 #ext_menu-2b .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#content5-2l .mbr-section-title,
-#content5-2l p {
-  color: #fff;
-}
-#content8-2k .mbr-section-title,
-#content8-2k p {
-  text-align: right;
-  color: #fff;
-}
 #features7-2e .card-subtitle {
   color: #bcbcbc;
 }
