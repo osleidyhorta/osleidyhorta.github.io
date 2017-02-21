@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Osli's Portfolio :)",
-    "currentPage": "introduction.html",
+    "currentPage": "illustrator.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -456,7 +456,7 @@
             "paddingBottom": 4,
             "images": [
               {
-                "tags": "Responsive",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -472,7 +472,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/if-walls-could-talk-2000x2750-800x1100.jpg",
                 "image": "@PROJECT_PATH@/assets/images/if-walls-could-talk-2000x2750.jpg",
-                "caption": "If Walls Could talk Production Poster",
+                "caption": "If Walls Could Talk Production Poster<br>",
                 "active": false
               },
               {
@@ -482,7 +482,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/osleidy-horta-perspective-piece-1-2000x2750-800x1100.jpg",
                 "image": "@PROJECT_PATH@/assets/images/osleidy-horta-perspective-piece-1-2000x2750.jpg",
-                "caption": "Perpective Piece: El Malecon de La Habana",
+                "caption": "Perspective Piece: El Malecon de La Habana",
                 "active": true
               }
             ],
@@ -759,53 +759,33 @@
             "paddingBottom": 4,
             "images": [
               {
-                "tags": "Responsive",
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-1-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-1-2000x2750.jpg",
+                "caption": "Logo Design",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mavericks-design-osleidy-horta-1-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mavericks-design-osleidy-horta-1-2000x2750.jpg",
+                "caption": "Maverick Logo Design",
+                "active": false
+              },
+              {
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/osleidy-horta-final-competition-piece-2000x2750-800x1100.jpg",
                 "image": "@PROJECT_PATH@/assets/images/osleidy-horta-final-competition-piece-2000x2750.jpg",
-                "caption": "Illusion Piece Competition",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vintage-tv-2000x2750-800x1100.jpg",
-                "image": "@PROJECT_PATH@/assets/images/vintage-tv-2000x2750.jpg",
-                "caption": "Vintage TV",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/osleidy-horta-vw-logo-completed-1-2000x2750-800x1100.jpg",
-                "image": "@PROJECT_PATH@/assets/images/osleidy-horta-vw-logo-completed-1-2000x2750.jpg",
-                "caption": "Volkswagen Logo for practice&nbsp;",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-osleidy-horta-breanna-henry-blue-print-drawing-complete-1-2000x2750-800x1100.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-osleidy-horta-breanna-henry-blue-print-drawing-complete-1-2000x2750.jpg",
-                "caption": "Kayak motor Blue Prints",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-2000x2750-800x1100.jpg",
-                "image": "@PROJECT_PATH@/assets/images/logo-2000x2750.jpg",
-                "caption": "Logo",
+                "caption": "Illusion Piece",
                 "active": false
               },
               {
@@ -817,6 +797,46 @@
                 "image": "@PROJECT_PATH@/assets/images/osleidy-horta-mdcps-logo-final-2000x2750.jpg",
                 "caption": "MDCPS Logo Competition",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/osleidy-horta-vw-logo-completed-1-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/osleidy-horta-vw-logo-completed-1-2000x2750.jpg",
+                "caption": "Volkswagon Logo",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/postcard-osleidy-horta-01-1-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/postcard-osleidy-horta-01-1-2000x2750.jpg",
+                "caption": "Postcard From Cuba",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-osleidy-horta-breanna-henry-blue-print-drawing-complete-1-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-osleidy-horta-breanna-henry-blue-print-drawing-complete-1-2000x2750.jpg",
+                "caption": "Motos Blueprint",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vintage-tv-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vintage-tv-2000x2750.jpg",
+                "caption": "Vitage TV",
+                "active": true
               }
             ],
             "spacing": "1",
