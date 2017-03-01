@@ -550,11 +550,14 @@ h6,
 }
 #ext_menu-1w .link[aria-expanded="true"],
 #ext_menu-1w .dropdown-item[aria-expanded="true"] {
-  color: #b8312f!important;
+  color: #f28281!important;
 }
 #msg-box8-21 .mbr-section-title,
 #msg-box8-21 p {
   color: #fff;
+}
+#msg-box8-21 .mbr-section-title {
+  font-size: 48px;
 }
 #social-buttons4-31 .mbr-section-title,
 #social-buttons4-31 .btn-social {
