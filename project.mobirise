@@ -170,6 +170,11 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "46px"
+            }
+          },
           "_anchor": "msg-box1-35",
           "_params": {
             "paddingTop": 3,
@@ -191,14 +196,9 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/UbEfj3QwRac\" data-toolbar=\"-mbrBtnMove\">My most recent video</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/UbEfj3QwRac\" data-toolbar=\"-mbrBtnMove\">Click here</a>",
           "text": "",
-          "title": "Watch my most recent video",
-          "_styles": {
-            "H3": {
-              "font-size": "46px"
-            }
-          }
+          "title": "Watch my most recent video"
         },
         {
           "_inherit": "social-buttons2",
