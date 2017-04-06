@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 116,
+    "uniqCompNum": 117,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -201,6 +201,36 @@
           "title": "About me :)"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-38",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/Voo0G1vvcxI\" data-toolbar=\"-mbrBtnMove\">Click Here</a>",
+          "text": "",
+          "title": "Believer Music Video"
+        },
+        {
           "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
@@ -235,7 +265,7 @@
           "_anchor": "form1-37",
           "_params": {
             "labelsColor": "#ffffff",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -294,8 +324,8 @@
           "_name": "contacts1",
           "_anchor": "contacts1-36",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -332,7 +362,7 @@
           "_name": "footer1",
           "_anchor": "footer1-2s",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -918,7 +948,7 @@
           "_name": "footer1",
           "_anchor": "footer1-2s",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -1250,7 +1280,7 @@
           "_name": "footer1",
           "_anchor": "footer1-2s",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -1680,7 +1710,7 @@
           "_name": "footer1",
           "_anchor": "footer1-2s",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -1691,7 +1721,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Osleidy Horta"
+          "text": "Copyright (c) 2017, Osleidy Horta"
         }
       ]
     }
