@@ -484,9 +484,6 @@ h6,
 #header1-1v .mbr-section-lead {
   color: #ffffff;
 }
-#msg-box1-35 H3 {
-  font-size: 46px;
-}
 #social-buttons4-30 .mbr-section-title,
 #social-buttons4-30 .btn-social {
   color: #fff;
@@ -743,4 +740,74 @@ h6,
 #social-buttons4-2z .mbr-section-title,
 #social-buttons4-2z .btn-social {
   color: #fff;
+}
+
+#ext_menu-39 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-39 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
+}
+#ext_menu-39 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-39 .close-icon::before,
+#ext_menu-39 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-39 .link,
+#ext_menu-39 .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-39 .link {
+  font-size: 0.75rem;
+}
+#ext_menu-39 .dropdown-item,
+#ext_menu-39 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-39 .link:hover,
+#ext_menu-39 .dropdown-item:hover,
+#ext_menu-39 .link:focus,
+#ext_menu-39 .dropdown-item:focus {
+  color: #f28281;
+}
+#ext_menu-39 .link[aria-expanded="true"],
+#ext_menu-39 .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-39 .nav-dropdown-sm .link:focus,
+#ext_menu-39 .nav-dropdown-sm .link:hover,
+#ext_menu-39 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-39 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-39 .navbar,
+#ext_menu-39 .nav-dropdown-sm,
+#ext_menu-39 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-39 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-39 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-39 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-39 .bg-color.transparent.opened .link:hover,
+#ext_menu-39 .bg-color.transparent.opened .link:focus {
+  color: #f28281;
+}
+#ext_menu-39 .link[aria-expanded="true"],
+#ext_menu-39 .dropdown-item[aria-expanded="true"] {
+  color: #f28281!important;
+}
+#msg-box1-3g H3 {
+  font-size: 46px;
+}
+#msg-box1-3i H3 {
+  font-size: 46px;
 }
