@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Osli's Portfolio :)",
-    "currentPage": "premiere.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -133,7 +133,7 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             },
             ".mbr-section-lead": {
               "color": "#ffffff"
@@ -142,7 +142,7 @@
           "_anchor": "header1-1v",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
             "bgColor": "#efefef",
@@ -152,7 +152,7 @@
               "height": 720,
               "url": "https://www.youtube.com/embed/x67YDkYpFSQ?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
@@ -163,7 +163,7 @@
           },
           "title": "~Osleidy Horta~",
           "text": "Welcome to my website :)",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Enter</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Enter</a>"
         },
         {
           "_inherit": "social-buttons2",
