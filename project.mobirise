@@ -1798,7 +1798,7 @@
           },
           "_anchor": "msg-box1-3g",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
@@ -1828,7 +1828,7 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-3h",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
@@ -1863,7 +1863,7 @@
           },
           "_anchor": "msg-box1-3i",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
