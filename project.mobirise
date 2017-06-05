@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Osli's Portfolio :)",
-    "currentPage": "premiere.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -513,6 +513,26 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tech-logo-2000x2750-800x1100.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tech-logo-2000x2750.jpg",
                 "caption": "Technology Production Logo",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mmn-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mmn-2000x2750.jpg",
+                "caption": "Multimedia Night- Example 1<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mmn2-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mmn2-2000x2750.jpg",
+                "caption": "Multimedia Night- Example 2<br>",
                 "active": true
               }
             ],
