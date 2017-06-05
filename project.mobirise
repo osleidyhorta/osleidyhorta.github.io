@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 127,
+    "uniqCompNum": 131,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -1885,6 +1885,41 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/gNpqbOuZq-A\" data-toolbar=\"-mbrBtnMove\">Click here</a>",
           "text": "",
           "title": "A Thousand Million Reasons"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "46px"
+            }
+          },
+          "_anchor": "msg-box1-3m",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=fkIMjRYr5oY&amp;list=PLkIFmTVZbn_pe-kiKrvBAPEsZ50MKY9rP\" data-toolbar=\"-mbrBtnMove\">Click here</a>",
+          "text": "",
+          "title": "Multimedia Night Videos"
         },
         {
           "_tags": [
